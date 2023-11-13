@@ -1,0 +1,6 @@
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.pdb

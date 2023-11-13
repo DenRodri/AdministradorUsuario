@@ -1,0 +1,11 @@
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Desarrollo\11\Proyecto\Proyecto\CapaNegocio\obj\Debug\CapaNegocio.pdb
